@@ -1,4 +1,5 @@
 # task-tracker
+for more info: https://roadmap.sh/projects/task-tracker
 How to download this project:
 ```
 git clone https://github.com/Idkhowtoplay/task-tracker.git
